@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    line-height: .9;
+}
+
+h2{
+    font-size: 40x;
+}
+
+
+p{
+    color: dimgray;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    line-height: 1.6;
+}
+
+.red-font{
+    text-transform: uppercase;
+	background: linear-gradient(to right, #FA6E5A 0%, #FF428D 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.top-space{
+    padding-top: 200px;
+}
+
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+}
+
+
+.half-width img{
+
+    width: 100%;
+    min-height: 450px;
+    min-width: 450px;
+    padding-top: 150px;
+}
+
+section{
+    display: inline-block;
+    padding-bottom: 80px;
+}
+
+.header-area{
+
+    background: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.biography-area{
+
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.latest-work-area{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.latest-work-area h1{
+    padding-bottom: 100px;
+    padding-top:100px ;
+}
+
+.one-third{
+    width: 25%;
+    display: inline-block;
+}
+
+.one-third img{
+    width: 100%;
+}
+
+#middle-image{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+.bottom-area{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.testimonial h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.testimonial p{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.message{
+    background: #EC4B73;
+    color:white;
+    margin: 70px 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3%;
+}
+
+.message p{
+    text-align: center;
+    color:white
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #FF428D,#FA6E5A);
+    padding: 10px 20px;
+    border-radius: 5%;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.link-button:hover{
+
+
+    background-image: linear-gradient(45deg, #FFBA24,#F8755E);
+    font-size: 13px;
+}
+
+footer{
+
+    text-align: center;
+    background-color: #EC4F90;
+    padding-top: 50px;
+}
+footer p {
+
+    text-align: center;
+    font-size: 12px;
+    padding-left: 50px;
+}
+
+li{
+    display: inline;
+}
+   
+}
+
+ul li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+}
+
+
+ul li a img{
+    max-width: 50px;
+}
+
