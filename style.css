@@ -34,7 +34,7 @@ p{
 }
 
 .half-width{
-    width: 30%;
+    width: 29%;
     float: left;
     margin-left: 100px;
     margin-right: 100px;
@@ -45,8 +45,8 @@ p{
 .half-width img{
 
     width: 100%;
-    min-height: 450px;
-    min-width: 450px;
+    min-height: 400px;
+    min-width: 400px;
     padding-top: 150px;
 }
 
