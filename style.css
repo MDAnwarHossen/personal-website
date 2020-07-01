@@ -57,7 +57,7 @@ section{
 
 .header-area{
 
-    background: url(images/header-bg.png);
+    background: url(Images/header-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -65,14 +65,14 @@ section{
 
 .biography-area{
 
-    background-image: url(images/biography-bg.png);
+    background-image: url(Images/biography-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 
 .latest-work-area{
-    background-image: url(images/latest-work-bg.png);
+    background-image: url(Images/latest-work-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     text-align: center;
@@ -99,7 +99,7 @@ section{
 
 
 .bottom-area{
-    background-image: url(images/footer-bg.png);
+    background-image: url(Images/footer-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     text-align: center;
